@@ -42,6 +42,7 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
+<<<<<<< HEAD
 Answer 10: Changes were not reflected
 
 Answer 11: To https://github.com/MTaylor03/git-lab.git
@@ -68,3 +69,6 @@ Answer 13: .  ..  .git  .gitignore  README.md
 
 
 
+=======
+Answer 10:
+>>>>>>> b35bc0589073b12ac9e5a2b50995ce8e961f3e7f
